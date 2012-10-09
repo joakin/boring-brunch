@@ -1,0 +1,9 @@
+{
+  "files": [
+    {
+      "from": "collection_test.js.hbs",
+      "to": "test/models/{{pluralName}}_test.js"
+    }
+  ],
+  "dependencies": []
+}

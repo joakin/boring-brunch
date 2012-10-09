@@ -1,0 +1,15 @@
+
+var {{#camelize}}{{name}}{{/camelize}} = (function() {
+
+    var privateFunctionSample = function() {
+    };
+
+    var publicFunctionSample = function() {
+    };
+
+    return {
+        functionSample: publicFunctionSample
+    };
+})();
+module.exports = {{#camelize}}{{name}}{{/camelize}};
+
