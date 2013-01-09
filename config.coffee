@@ -25,4 +25,5 @@ exports.config =
         after: []
 
     templates:
+      defaultExtension: 'jst'
       joinTo: 'javascripts/app.js'

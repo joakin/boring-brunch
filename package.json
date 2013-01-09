@@ -21,7 +21,7 @@
     "less-brunch": ">= 1.0 < 1.6",
     "css-brunch": ">= 1.0 < 1.6",
 
-    "handlebars-brunch": ">= 1.0 < 1.5",
+    "underscore-brunch": ">= 1.0 < 1.6",
 
     "uglify-js-brunch": ">= 1.0 < 1.6",
     "clean-css-brunch": ">= 1.0 < 1.6"
